@@ -2,16 +2,6 @@
  * TestRemoteControl.java
  */
  
-import Light;
-import LightImpl;
-
-import Command;
-import LightOnCommand;
-import LightOffCommand;
-
-//import PresetButtons;
-import RemoteControl;
-
 public class TestRemoteControl
 {
 	
@@ -20,7 +10,7 @@ public class TestRemoteControl
 		//
 		// Create a remote
 		//
-		public RemoteControl remote = new RemoteControl();
+		RemoteControl remote = new RemoteControl();
 		
 		// Show initial assignments
 		System.out.println("***** INITIAL PRESETS");

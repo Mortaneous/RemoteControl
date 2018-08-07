@@ -2,8 +2,6 @@
  * LightOnCommand.java
  */
  
-import Command;
-import Light;
 
 public class LightOnCommand implements Command
 {

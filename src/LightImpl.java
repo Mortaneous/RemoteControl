@@ -2,7 +2,6 @@
  * LightImpl.java
  */
  
-import Light;
 
 public class LightImpl implements Light
 {
@@ -39,6 +38,6 @@ public class LightImpl implements Light
 	
 	public String toString()
 	{
-		return getLocation() + "Lights";
+		return getLocation() + " Lights";
 	}
 }

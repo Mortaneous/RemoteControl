@@ -2,8 +2,6 @@
  * PresetButtons.java
  */
  
-import Command;
-import NoCommand;
 
 public class PresetButtons
 {
@@ -16,13 +14,13 @@ public class PresetButtons
 	public PresetButtons()
 	{
 		initialize();
-		clearCommands();
+		clearButtons();
 	}
 
 	public PresetButtons(Command firstCommand, Command secondCommand)
 	{
 		initialize();
-		assignCommands(firstCommand, secondCommand);
+		setButtons(firstCommand, secondCommand);
 	}
 
 	private void initialize()
