@@ -1,2 +1,0 @@
-# RemoteControl
-Command Pattern study
