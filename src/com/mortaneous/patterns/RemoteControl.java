@@ -2,6 +2,8 @@
  * RemoteControl.java
  */
  
+package com.mortaneous.patterns;
+
 public class RemoteControl
 {
 	private PresetButtons[] presetButtons;

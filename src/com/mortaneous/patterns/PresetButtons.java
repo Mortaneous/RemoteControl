@@ -2,6 +2,7 @@
  * PresetButtons.java
  */
  
+package com.mortaneous.patterns;
 
 public class PresetButtons
 {

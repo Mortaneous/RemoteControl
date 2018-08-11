@@ -2,6 +2,7 @@
  * LightImpl.java
  */
  
+package com.mortaneous.patterns;
 
 public class LightImpl implements Light
 {
