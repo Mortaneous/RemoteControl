@@ -2,7 +2,7 @@
  * Command.java
  */
  
-package com.mortaneous.patterns;
+package com.mortaneous.patterns.commandpattern;
 
 public interface Command
 {

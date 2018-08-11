@@ -2,7 +2,7 @@
  * TestRemoteControl.java
  */
 
-package com.mortaneous.patterns;
+package com.mortaneous.patterns.commandpattern;
  
 public class TestRemoteControl
 {

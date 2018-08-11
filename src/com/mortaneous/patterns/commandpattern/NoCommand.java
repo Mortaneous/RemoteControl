@@ -2,7 +2,7 @@
  * NoCommand.java
  */
  
-package com.mortaneous.patterns;
+package com.mortaneous.patterns.commandpattern;
 
 public class NoCommand implements Command
 {

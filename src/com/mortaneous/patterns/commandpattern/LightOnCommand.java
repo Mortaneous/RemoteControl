@@ -2,7 +2,7 @@
  * LightOnCommand.java
  */
  
-package com.mortaneous.patterns;
+package com.mortaneous.patterns.commandpattern;
 
 public class LightOnCommand implements Command
 {
